@@ -1,7 +1,7 @@
 # An experimental Leaflet map for the trash in Dar es Salaam
 Work in progress
 
-#TODO:
+# TODO:
 
 - Load the GeoJSON from a file, not embedded within the html.
 - Don't load all of the GeoJSON; only load the points within the browser window
