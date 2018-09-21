@@ -1,4 +1,5 @@
-"# dartrashleaflet"
+# An experimental Leaflet map for the trash in Dar es Salaam
+Work in progress
 
 #TODO:
 
